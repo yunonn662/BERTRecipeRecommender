@@ -3,6 +3,9 @@
 - Dataset used to train BERT Cuisine Classifier is from [Kaggle](https://www.kaggle.com/datasets/kaggle/recipe-ingredients-dataset).
 - Dataset used to train Doc2Vec model is from [Recipes Box](https://eightportions.com/datasets/Recipes/#fn:1).
 
+## Dataset, Models and Embeddings Download Link
+- [GoogleDrive](https://drive.google.com/drive/folders/1yxRw-5uVD2kBiWF8KQnTCV8hwqu1lDwb?usp=sharing)
+
 ### Reference
 The idea is from a [Medium](https://towardsdatascience.com/a-recommendation-engine-that-proposes-recipes-after-taking-photos-of-your-ingredients-de2d314f565d) tutorial.
 
